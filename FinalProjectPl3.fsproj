@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Include="QuizApp.Data.fs" />
+		<Compile Include="QuizApp.Logic.fs" />
+		<Compile Include="QuizApp.UI.fs" />
+		<Compile Include="Program.fs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Reactive.Windows.Forms" Version="6.0.1" />
+	</ItemGroup>
+
+</Project>

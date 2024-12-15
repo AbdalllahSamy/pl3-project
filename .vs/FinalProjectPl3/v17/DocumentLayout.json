@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\FinalProjectPl3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F4BE14-10A7-4C58-9787-34DB592BBF74}|FinalProjectPl3.fsproj|d:\\c#\\finalprojectpl3\\finalprojectpl3.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19F4BE14-10A7-4C58-9787-34DB592BBF74}|FinalProjectPl3.fsproj|solutionrelative:finalprojectpl3.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalProjectPl3.fsproj",
+              "DocumentMoniker": "D:\\c#\\FinalProjectPl3\\FinalProjectPl3.fsproj",
+              "RelativeDocumentMoniker": "FinalProjectPl3.fsproj",
+              "ToolTip": "D:\\c#\\FinalProjectPl3\\FinalProjectPl3.fsproj",
+              "RelativeToolTip": "FinalProjectPl3.fsproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2024-12-15T16:22:04.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
