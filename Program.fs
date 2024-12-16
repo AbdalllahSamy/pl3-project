@@ -8,4 +8,3 @@ module Main =
     let main _ =
         let form = QuizForm.createForm ()
         Application.Run(form)
-        0
