@@ -8,12 +8,7 @@ module QuizLogic =
 
     let getQuestions () = QuizData.getQuestions ()
 
-    let getCurrentQuestion () =
-        let questions = getQuestions ()
-        if currentQuestionIndex < questions.Length then
-            Some questions.[currentQuestionIndex]
-        else
-            None
+    
 
     let submitAnswer (answer: string) (question: Question) =
         userAnswers <- userAnswers.Add(question.ID, answer)
